@@ -1,0 +1,15 @@
+# Assets
+app/.webassets-cache
+
+# Logger
+*.log
+
+# Mac
+*.DS_Store
+
+# Python
+__pycache__/
+
+# Virtual Environment
+.venv/
+venv/
